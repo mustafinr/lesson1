@@ -1,2 +1,2 @@
 # lesson1
-Kinux DevOps tools Lesson 1
+Linux DevOps instruments Lesson 1
